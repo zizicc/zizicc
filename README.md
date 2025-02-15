@@ -4,6 +4,6 @@
 - 💻 Previously interned at Microsoft Copilot Team.
 - 👨‍💻 Open source contributor at [MatrixOne](https://github.com/matrixorigin/matrixone) database.
 - 🏫 MS CE at [Duke University](https://ece.duke.edu/)
-- 💻 Java, Go, Python
+- 💾 Java, Go, Python
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zizicc.visitor-badge)
