@@ -1,4 +1,4 @@
-## Hi👋, I'm Yazi Wang
+## Hi👋, I'm Mila(Yazi) Wang
 
 - 💼 Currently looking for Software Engineer role at US. Please connect on [Linkedin](https://www.linkedin.com/in/yazi-wang/).
 - 💻 Previously interned at Microsoft Sharepoint Team.
